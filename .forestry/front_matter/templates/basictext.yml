@@ -1,0 +1,15 @@
+---
+label: BasicText
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: basictexttitle
+  description: Just a title
+  default: enter title here
+- type: textarea
+  name: textbody
+  label: textbody
+  description: the paragraph containg the basic text
+  default: enter your test here
