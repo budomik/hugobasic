@@ -9,31 +9,9 @@ weight = 5
 
 +++
 HUMANKIND HAS NOT WOVEN THE WEB OF LIFE.  
- WE ARE BUT ONE THREAD WITHIN IT.  
- WHATEVER WE DO TO THE WEB, WE DO TO OURSELVES.  
- ALL THINGS ARE BOUND TOGETHER.  
- ALL THINGS CONNECT.
+WE ARE BUT ONE THREAD WITHIN IT.  
+WHATEVER WE DO TO THE WEB, WE DO TO OURSELVES.  
+ALL THINGS ARE BOUND TOGETHER.  
+ALL THINGS CONNECT.
 
 \-Chief Seattle 1854
-
-My first considerations will always be to:
-
-\-Operate in a sustainable manner.
-
-\-Remember that the Earth does not belong to us, we belongs to the Earth.
-
-\-Buy local and work with local suppliers.
-
-\-Stay involved in training and mentoring with local organizations.
-
-\-Adhere to all occupational health & safety requirements.
-
-\-Contribute to the local community however and whenever possible.
-
-\-Encourage & Celebrate diversity and inclusiveness.
-
-\-Promote environmental awareness.
-
-\-Use technology to meet virtually when possible.
-
-And, of course, stop at local farm stands and buy lemonade form children whenever possible!
