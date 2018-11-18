@@ -13,5 +13,9 @@ fields:
   label: textbody
   description: the paragraph containg the basic text
   default: enter your text here
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - content/sustainability-statement.md
