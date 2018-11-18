@@ -14,7 +14,7 @@ fields:
   description: the paragraph containg the basic text
   default: enter your text here
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: markdown
 pages:
