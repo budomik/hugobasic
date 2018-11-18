@@ -13,5 +13,3 @@ fields:
   label: textbody
   description: the paragraph containg the basic text
   default: enter your text here
-pages:
-- content/newpage.md
