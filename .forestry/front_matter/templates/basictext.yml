@@ -12,4 +12,4 @@ fields:
   name: textbody
   label: textbody
   description: the paragraph containg the basic text
-  default: enter your test here
+  default: enter your text here
